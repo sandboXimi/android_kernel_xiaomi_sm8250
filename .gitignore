@@ -134,3 +134,10 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# Prevent
+out
+AnyKernel3
+ids.txt
+clangB
+build.sh
